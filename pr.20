@@ -1,0 +1,18 @@
+﻿<html>
+<head>
+
+    <title>WPD PR.11</title>
+</head>
+<body style="border:doble">
+    <h1 align="center">WEB PAGE DESIGNING</h1>
+    <h2>Contact Information</h2>
+    <p><b><u>Name</u>:</b> <i>Pooja B. Bhujade</i></p>
+    <address>
+        MET's Institute of technology polytechnic bhujbal knowledge city<br>
+        Department of INFORMATION TECHNOLOGY <br>
+        Email:2025ictpbb
+</address>
+    <a href="mailto:ict2025@gmail.com?subject=Regarding progaram & body=please
+       send me a copy of your new program!">send Feedback</a>
+</body>
+</html>

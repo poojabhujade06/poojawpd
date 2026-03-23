@@ -1,0 +1,64 @@
+﻿
+
+<html>
+<head>
+    <title>wpd pr.21</title>
+</head>
+<style>
+    body {
+        font-family: Arial;
+        background-color: #f2f2f2;
+    }
+    
+    
+    </style>
+    <body>
+        h2>HTML Forms</h2>
+
+        <form action="/action_page.php">
+
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" value="Write your First name"><br>
+
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" value="xyz"><br><br>
+
+
+            <h2>Radio Buttons</h2>
+            <p>Choose your favorite City:</p>
+
+            <input type="radio" id="Jaipur" name="fav_City" value="Jaipur">
+            <label for="Jaipur">Jaipur</label><br>
+
+            <input type="radio" id="Agra" name="fav_City" value="Agra">
+            <label for="Agra">Agra</label><br>
+
+            <input type="radio" id="Varansi" name="fav_City" value="Varanasi">
+            <label for="Varansi">Varansi</label><br>
+
+
+            <h2>Checkboxes</h2>
+            <p>The <b>input type="checkbox"</b> defines a checkbox:</p>
+
+            <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+            <label for="vehicle1">I have a bike</label><br>
+
+            <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+            <label for="vehicle2">I have a car</label><br>
+
+            <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+            <label for="vehicle3">I have a boat</label><br><br>
+
+
+
+        </form>
+        <h2>Contact Information</h2>
+        <p><b><u>Name</u>:</b> <i>Pooja B. Bhujade</i></p>
+        <address>
+            MET's Institute of Technology Polytechnic bhujbal knowledge city
+            Department of INFORMATION TECHNOLOGY <br>
+            Email:2025ictpbb<br>
+        </address>
+        <input type="submit" value="Submit">
+    </body>
+</html>

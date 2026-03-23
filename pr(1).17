@@ -1,0 +1,55 @@
+﻿
+
+<html>
+<head>
+    
+    <title></title>
+</head>
+<body>
+    <address>
+        MET's Institute of Technology Polytechnic bhujbal knowledge city
+        Department of INFORMATION TECHNOLOGY <br>
+        Email:2025ictpbb<br>
+    </address>
+    <p><b>college name :<b>MET BKC Polytechnic</p>
+    <p><b>subject name:</b>WEB PAGE DISIGNING</p>
+    <h3 style="backgrount-color:hotpink;text-align:center"> MET BHUJBAL KNOELEDGE CITY</h3>
+    <img src="a.png" heght="200" width="200" border="5px" /><br />
+    <h3 style="color:aqua;background-color:black;text-align:center">FYIF TIMETABLE</h3>
+    <table border="5" align="center" cellpadding="10">
+        <tr>
+            <th>day</th>
+            <th>08 to 09</th>
+            <th>09 to 10</th>
+            <th>10 to 11</th>
+            <th>11 to 12</th>
+            <th>12 to 12:30</th>
+            <th>12:30 to 1:30</th>
+            <th>1:30 to 2:30</th>
+            <th>2:30 to 3:30</th>
+        </tr>
+
+
+        <tr>
+            <td>MONDAY</td>
+            <td>BLP</td>
+            <td>AMS</td>
+            <td colspan="2">BEE=C1, PIC=C2</td>
+            <td rowspan="5">RESSES</td>
+            <td>BEE</td>
+            <td colspan="2">lib=B1,PCO=B2, LIB=B3  </td>
+            <td></td>
+            <td></td>
+
+
+
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+       
+
+    </table>
+</body>
+</html>
